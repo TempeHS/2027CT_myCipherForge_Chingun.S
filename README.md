@@ -3,4 +3,4 @@ python app.py
 
 # Run tests
 python tests.py
-Author[Chingun.S] — Year 9, 2026License
+Author Chingun.S — Year 9, 2026License
